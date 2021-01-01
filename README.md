@@ -41,3 +41,17 @@ $ python3 validate_solutions.py <max_N> # check all instances from S8 to S(2*max
 $ python3 validate_solutions.py 30 # check all instances from S8 to S60
 $ python3 validate_solutions.py # default value 54 of max_N will be used
 ```
+
+Output example
+```txt
+SBTD - S0008:    1 solution(s).
+SBTD - S0012:    4 solution(s).
+SBTD - S0014:    5 solution(s).
+...
+SBTD - S0044: No solutions found.
+...
+SBTD - S0106:    1 solution(s).
+SBTD - S0108: No solutions found.
+
+No errors raised, hence all solutions found are correct.
+```
