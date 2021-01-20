@@ -43,7 +43,9 @@ class Constants:
         self.N = N
         self.modulo = 2 * N + 1
         self.n_teams = 2 * N
-        self.string = f'S{self.n_teams:04d}' # number 4 is taken from config.py
+        # number 4 is taken from config.py
+        # self.string = f'S{self.n_teams:04d}'
+        self.string = f'SBTD{self.N:04d}'
         self.all_numbers = set(range(1, self.modulo))
         self.array_shape = (N, 2 * N - 1)
         self.columns = range(2 * N - 1)
@@ -75,7 +77,7 @@ for N in possible_N_values:
             raise ValueError(f'A wrong solution\n{arr}')
     n_solutions = len(solution_files)
     if n_solutions != 0:
-        print(f'SBTD - {constants.string}: {n_solutions:4d} solution(s).')
+        print(f'SBTD({N:2d}): {n_solutions:4d} solution(s).')
     else:
-        print(f'SBTD - {constants.string}: No solutions found.')
+        print(f'SBTD({N:2d}): No solutions found.')
 print('\nNo errors raised, hence all solutions found are correct.')
