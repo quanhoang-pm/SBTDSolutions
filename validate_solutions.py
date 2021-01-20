@@ -60,6 +60,7 @@ try:
 except Exception:
     max_N = 54
 possible_N_values = [val for val in range(4, max_N + 1) if val != 5]
+print('Number of SBTD solutions')
 for N in possible_N_values:
     constants = Constants(N)
     folder = Path() / constants.string
@@ -77,7 +78,7 @@ for N in possible_N_values:
             raise ValueError(f'A wrong solution\n{arr}')
     n_solutions = len(solution_files)
     if n_solutions != 0:
-        print(f'SBTD({N:2d}): {n_solutions:4d} solution(s).')
+        print(f'SBTD({N:2d}): {n_solutions:4d}')
     else:
-        print(f'SBTD({N:2d}): No solutions found.')
+        print(f'SBTD({N:2d}): No solutions found')
 print('\nNo errors raised, hence all solutions found are correct.')
