@@ -14,6 +14,8 @@ A starter balanced tournament design (SBTD) of order n, denoted as SBTD(n), is a
 - Each element is contained at most two times in each row.
 - Each column is a starter.
 
+Without loss of generality, we assume the first row of a SBTD(n) array is `[(1, 2), (2, 3), ..., (2n-2, 2n-1), (2n-1, 2n)]`.
+
 ### Directories structure
 
 SBTD schedules are arranged in corresponding SBTD(n) instances and they are differentiated by their hash values.
