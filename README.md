@@ -37,25 +37,60 @@ Example of a SBTD schedule for 12 teams `SBTD0006/SBTD0006_schedule_1c63b69a3ce5
 [(   3,   9), (  11,   4), (   5,  11), (   2,   8), (   8,   1), (  10,   3), (   4,  10), (   6,  12), (   1,   7), (  12,   5), (   9,   2)]
 ```
 
-### Validating script
-The script `validate_solutions.py` is used to validate schedules in all instances. One can pass `max_N` argument to specify the validation range from SBTD(4) to SBTD(n).
+### Schedules statistics
 
-```sh
-$ python3 validate_solutions.py <max_N> # validate all instances from SBTD(4) to SBTD(max_N)
-$ python3 validate_solutions.py # using the default value 54 of max_N
-```
+Some entries filled with hyphens are remaining cases in which no solutions have been found yet.
 
-Output example
-```txt
-Number of SBTD solutions
-SBTD( 4):    1
-SBTD( 6):    4
-SBTD( 7):    5
-...
-SBTD(22): No solutions found
-...
-SBTD(53):    1
-SBTD(54): No solutions found
-
-No errors raised, hence all solutions found are correct.
-```
+| N  | # schedules |
+|:---|------------:|
+| 4  |           1 |
+| 5  |  Infeasible |
+| 6  |           4 |
+| 7  |           5 |
+| 8  |          25 |
+| 9  |          63 |
+| 10 |          29 |
+| 11 |          28 |
+| 12 |           4 |
+| 13 |          21 |
+| 14 |          20 |
+| 15 |         331 |
+| 16 |          11 |
+| 17 |           2 |
+| 18 |         111 |
+| 19 |           3 |
+| 20 |          36 |
+| 21 |          42 |
+| 22 |      ------ |
+| 23 |          23 |
+| 24 |          17 |
+| 25 |      ------ |
+| 26 |          24 |
+| 27 |      ------ |
+| 28 |           7 |
+| 29 |           3 |
+| 30 |          26 |
+| 31 |           1 |
+| 32 |      ------ |
+| 33 |           3 |
+| 34 |      ------ |
+| 35 |           3 |
+| 36 |           3 |
+| 37 |      ------ |
+| 38 |      ------ |
+| 39 |           3 |
+| 40 |           2 |
+| 41 |           3 |
+| 42 |      ------ |
+| 43 |      ------ |
+| 44 |           2 |
+| 45 |      ------ |
+| 46 |      ------ |
+| 47 |      ------ |
+| 48 |           1 |
+| 49 |           2 |
+| 50 |      ------ |
+| 51 |      ------ |
+| 52 |      ------ |
+| 53 |           1 |
+| 54 |      ------ |
