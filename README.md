@@ -42,7 +42,7 @@ Example of a SBTD schedule for 12 teams `SBTD0006/SBTD0006_schedule_1c63b69a3ce5
 Some entries filled with hyphens are remaining cases in which no solutions have been found yet.
 
 | N  | # schedules |
-|:---|------------:|
+|---:|------------:|
 | 4  |           1 |
 | 5  |  Infeasible |
 | 6  |           4 |
