@@ -76,7 +76,7 @@ Some entries filled with hyphens are remaining cases in which no solutions have 
 | 48 |           1 |
 | 49 |           2 |
 | 50 |      ------ |
-| 51 |      ------ |
+| 51 |           2 |
 | 52 |      ------ |
 | 53 |           1 |
 | 54 |      ------ |
