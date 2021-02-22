@@ -13,7 +13,7 @@ Below please find a sample of SBTD(6) a Round Robin starter schedule of 12 teams
 
 # Schedules statistics
 
-We present here the links to `SBTD000n` folders and the numbers of schedules for cases up to *n = 54*. Some entries filled with hyphens are cases in which no solutions have been found yet.
+We present here the links to `SBTD000n` folders and the numbers of schedules for cases up to `n = 54`. Some entries filled with hyphens are cases in which no solutions have been found yet. The missing cases (up to n = 54) are `n = 22, 25, 27, 32, 34, 37, 38, 42, 43, 45, 46, 47, 52, 54`.
 
 |  n |                                                                       Folder | # schedules |
 |---:|-----------------------------------------------------------------------------:|------------:|
