@@ -20,51 +20,51 @@ We present here the links to `SBTD000n` folders and the numbers of schedules for
 |  4 | [SBTD0004](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0004) |           1 |
 |  5 |                                                                              |  Infeasible |
 |  6 | [SBTD0006](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0006) |           4 |
-|  7 | [SBTD0007](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0007) |           5 |
-|  8 | [SBTD0008](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0008) |          25 |
-|  9 | [SBTD0009](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0009) |          63 |
-| 10 | [SBTD0010](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0010) |          29 |
-| 11 | [SBTD0011](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0011) |          28 |
-| 12 | [SBTD0012](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0012) |           4 |
-| 13 | [SBTD0013](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0013) |          21 |
-| 14 | [SBTD0014](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0014) |          20 |
-| 15 | [SBTD0015](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0015) |         331 |
-| 16 | [SBTD0016](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0016) |          11 |
-| 17 | [SBTD0017](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0017) |           2 |
-| 18 | [SBTD0018](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0018) |         111 |
-| 19 | [SBTD0019](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0019) |           3 |
-| 20 | [SBTD0020](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0020) |          36 |
-| 21 | [SBTD0021](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0021) |          42 |
+|  7 | [SBTD0007](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0007) |          56 |
+|  8 | [SBTD0008](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0008) |         512 |
+|  9 | [SBTD0009](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0009) |         320 |
+| 10 | [SBTD0010](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0010) |         148 |
+| 11 | [SBTD0011](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0011) |         176 |
+| 12 | [SBTD0012](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0012) |          50 |
+| 13 | [SBTD0013](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0013) |          60 |
+| 14 | [SBTD0014](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0014) |         136 |
+| 15 | [SBTD0015](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0015) |        1950 |
+| 16 | [SBTD0016](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0016) |          48 |
+| 17 | [SBTD0017](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0017) |          48 |
+| 18 | [SBTD0018](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0018) |         552 |
+| 19 | [SBTD0019](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0019) |          24 |
+| 20 | [SBTD0020](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0020) |         256 |
+| 21 | [SBTD0021](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0021) |         127 |
 | 22 |                                                                              |      ------ |
-| 23 | [SBTD0023](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0023) |          23 |
-| 24 | [SBTD0024](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0024) |          17 |
+| 23 | [SBTD0023](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0023) |          48 |
+| 24 | [SBTD0024](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0024) |         168 |
 | 25 |                                                                              |      ------ |
-| 26 | [SBTD0026](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0026) |          24 |
+| 26 | [SBTD0026](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0026) |         104 |
 | 27 |                                                                              |      ------ |
-| 28 | [SBTD0028](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0028) |           7 |
-| 29 | [SBTD0029](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0029) |           3 |
-| 30 | [SBTD0030](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0030) |          26 |
-| 31 | [SBTD0031](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0031) |           1 |
+| 28 | [SBTD0028](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0028) |          16 |
+| 29 | [SBTD0029](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0029) |          10 |
+| 30 | [SBTD0030](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0030) |         120 |
+| 31 | [SBTD0031](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0031) |           8 |
 | 32 |                                                                              |      ------ |
-| 33 | [SBTD0033](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0033) |           3 |
+| 33 | [SBTD0033](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0033) |           7 |
 | 34 |                                                                              |      ------ |
-| 35 | [SBTD0035](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0035) |           3 |
-| 36 | [SBTD0036](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0036) |           3 |
+| 35 | [SBTD0035](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0035) |           8 |
+| 36 | [SBTD0036](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0036) |          28 |
 | 37 |                                                                              |      ------ |
 | 38 |                                                                              |      ------ |
-| 39 | [SBTD0039](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0039) |           3 |
-| 40 | [SBTD0040](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0040) |           2 |
-| 41 | [SBTD0041](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0041) |           3 |
+| 39 | [SBTD0039](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0039) |           8 |
+| 40 | [SBTD0040](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0040) |           5 |
+| 41 | [SBTD0041](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0041) |           6 |
 | 42 |                                                                              |      ------ |
 | 43 |                                                                              |      ------ |
-| 44 | [SBTD0044](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0044) |           2 |
+| 44 | [SBTD0044](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0044) |          12 |
 | 45 |                                                                              |      ------ |
 | 46 |                                                                              |      ------ |
 | 47 |                                                                              |      ------ |
-| 48 | [SBTD0048](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0048) |           1 |
-| 49 | [SBTD0049](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0049) |           2 |
+| 48 | [SBTD0048](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0048) |          16 |
+| 49 | [SBTD0049](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0049) |           6 |
 | 50 | [SBTD0050](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0050) |           4 |
 | 51 | [SBTD0051](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0051) |           2 |
 | 52 |                                                                              |      ------ |
-| 53 | [SBTD0053](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0053) |           1 |
+| 53 | [SBTD0053](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0053) |           4 |
 | 54 |                                                                              |      ------ |
