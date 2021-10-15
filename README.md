@@ -1,5 +1,7 @@
 This folder contains schedules of Round Robin Tournaments among *2n* players that form Starter One-Factorizations of *K_2n* that were found in our paper. The folders `SBTD000n` contain a sample of the *n x (2n-1)* arrays in which every column contains *n* pairs that form a starter in *Z_2n+1* and every unordered pair *(m,p)*; *1 <= m,p <= 2n* and *m != p*; appears in exactly one column.
 
+Moreover, the folder `SBTD0010_otherMethods/` contains 92 SBTD(10) schedules obtaining by using other methods described in the paper.
+
 Below please find a sample of SBTD(6) a Round Robin starter schedule of 12 teams. It may be different than the one displayed in the paper.
 
 ```txt
