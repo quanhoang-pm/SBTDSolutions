@@ -2,7 +2,7 @@ This folder contains schedules of Round Robin Tournaments among *2n* players tha
 
 Moreover, the folder `SBTD0010_otherMethods/` contains 92 SBTD(10) schedules obtaining by using other methods described in the paper.
 
-Below please find a sample of SBTD(6) a Round Robin starter schedule of 12 teams. It may be different than the one displayed in the paper.
+Below please find a sample of SBTD(6) a Round Robin starter schedule of 12 teams.
 
 ```txt
 [( 1, 2), ( 2, 3), ( 3, 4), ( 4, 5), ( 5, 6), ( 6, 7), ( 7, 8), ( 8, 9), ( 9,10), (10,11), (11,12)]
@@ -15,7 +15,7 @@ Below please find a sample of SBTD(6) a Round Robin starter schedule of 12 teams
 
 # Schedules statistics
 
-We present here the links to `SBTD000n` folders and the numbers of schedules for cases up to `n = 54`. Some entries filled with hyphens are cases in which no solutions have been found yet. The missing cases (up to n = 54) are `n = 22, 25, 27, 32, 34, 37, 38, 42, 43, 45, 46, 47, 52, 54`.
+We present here the links to `SBTD(n)` folders and the numbers of schedules for cases up to `n = 53`. Some entries filled with hyphens are cases in which no solutions have been found yet. The missing cases (up to `n = 53`) are `n = 22, 25, 27, 32, 34, 37, 38, 42, 43, 45, 46, 47, 52`.
 
 |  n |                                                                       Folder | # schedules |
 |---:|-----------------------------------------------------------------------------:|------------:|
@@ -69,4 +69,3 @@ We present here the links to `SBTD000n` folders and the numbers of schedules for
 | 51 | [SBTD0051](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0051) |           2 |
 | 52 |                                                                              |      ------ |
 | 53 | [SBTD0053](https://github.com/quanhoang-pm/SBTDSolutions/tree/main/SBTD0053) |           4 |
-| 54 |                                                                              |      ------ |
